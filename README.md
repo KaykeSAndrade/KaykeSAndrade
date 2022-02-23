@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayke</h1>
 <h3 align="center">i'm a dev student from Brazil</h3>
-https://media.giphy.com/media/TfelnmQ8VU3K/giphy.gif
+
+<img align="right" alt="jpg" width="250px" src="https://media1.giphy.com/media/TfelnmQ8VU3K/200w.webp?cid=ecf05e47ox5immbm43fjylcbnbboe8w58c8juttas1a9vk1d&rid=200w.webp&ct=g"/>
 - 🌱 I’m currently learning **JavaScript,Java**
 
 - 📫 How to reach me **Kaykewwe1212@hotmail.com**
